@@ -1,3 +1,5 @@
+# DigiSparkJiggle
+
 This project was created to solve a very specific problem; computers in Department of Education Western Australia schools face an oppressive security policy. This policy forcibly logs out users after merely 15 minutes of inactivity. Previously software solutions such as Caffeine have been used, however these are easily detected and blocked by the Department's IT service provider.
 
 Enter DigiSparkJiggler. Based on a DigiSpark, this little device presents as a normal USB mouse. Once every 60 seconds DigiSparkJiggler will move the curse one pixel to the right, and return one pixel to the left. Thus the system is fooled into thinking the user is continuously operating the machine, defeating the screen saver and the automatic logout. 
@@ -9,7 +11,7 @@ DigiSpark hardware is cheap and easy to obtain;
 [https://www.ebay.com.au/sch/i.html?_nkw=digispark]
 [https://www.aliexpress.com/wholesale?SearchText=digispark]
 
-DigiStump, the original creators of the DigiSpark, have instructions on setting up a build environment; [https://digistump.com/wiki/digispark/tutorials/connecting]
+[DigiStump](https://digistump.com/), the original creators of the DigiSpark, have instructions on setting up a build environment; [https://digistump.com/wiki/digispark/tutorials/connecting]
 
 The firmware itself uses the excellent [V-USB](https://github.com/obdev/v-usb) library by [Objective Development](http://www.obdev.at/)
 
