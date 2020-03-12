@@ -1,3 +1,11 @@
+/* Name: main.c
+ * Project: DigiSparkJiggle; a mouse jiggler for a DigiSpark
+ * Author: Adrian Woodley
+ * Creation Date: 12-03-2020
+ * Tabsize: 4
+ * License: GNU GPL v3
+ */
+
 #include <avr/io.h>
 #include <avr/interrupt.h>  /* for sei() */
 #include <avr/sleep.h>

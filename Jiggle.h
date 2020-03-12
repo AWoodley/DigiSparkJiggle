@@ -1,4 +1,10 @@
-// #define USB_LED_OFF 0
+/* Name: Jiggle.h
+ * Project: DigiSparkJiggle; a mouse jiggler for a DigiSpark
+ * Author: Adrian Woodley
+ * Creation Date: 12-03-2020
+ * Tabsize: 4
+ * License: GNU GPL v3
+ */
 
 #define abs(x) ((x) > 0 ? (x) : (-x))
 
