@@ -8,10 +8,10 @@ So as to not totally compromise the security of the system, DigiSparkJiggler wil
 
 DigiSpark hardware is cheap and easy to obtain;
 
-[https://www.ebay.com.au/sch/i.html?_nkw=digispark]
-[https://www.aliexpress.com/wholesale?SearchText=digispark]
+* <https://www.ebay.com.au/sch/i.html?_nkw=digispark>
+* <https://www.aliexpress.com/wholesale?SearchText=digispark>
 
-[DigiStump](https://digistump.com/), the original creators of the DigiSpark, have instructions on setting up a build environment; [https://digistump.com/wiki/digispark/tutorials/connecting]
+[DigiStump](https://digistump.com/), the original creators of the DigiSpark, have instructions on setting up a build environment; <https://digistump.com/wiki/digispark/tutorials/connecting>
 
 The firmware itself uses the excellent [V-USB](https://github.com/obdev/v-usb) library by [Objective Development](http://www.obdev.at/)
 
